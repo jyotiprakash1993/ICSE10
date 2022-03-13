@@ -8,6 +8,6 @@ public class NewClass
 	@Test
 	public void a()
 	{
-		Reporter.log("a",true);
+		System.out.println("a");
 	}
 }
